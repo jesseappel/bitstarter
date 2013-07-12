@@ -30,7 +30,7 @@ var instr = infile.toString();
 }
 return instr;
 };
-
+//asda
 var cheerioHtmlFile = function(htmlfile){
     return cheerio.load(fs.readFileSync(htmlfile));
 };
